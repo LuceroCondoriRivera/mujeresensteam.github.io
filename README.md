@@ -74,34 +74,11 @@ mujeres-steam/
 
 link: https://lucerocondoririvera.github.io/mujeresensteam.github.io/
 
-### Netlify (drag & drop)
+### Netlify 
 
-1. Entra a [netlify.com](https://www.netlify.com) y crea una cuenta gratuita
-2. En el dashboard, arrastra la carpeta `mujeres-steam/` al área de deploy
-3. Netlify genera una URL automáticamente (ej. `https://mujeres-steam.netlify.app`)
-4. Para un dominio personalizado: **Domain settings → Add custom domain**
-
-### Dominio personalizado (opcional)
-
-Para usar un dominio como `mujeresenteam.org`:
-1. Compra el dominio en [Namecheap](https://namecheap.com) o [Porkbun](https://porkbun.com)
-2. En Netlify: **Site settings → Domain management → Add domain**
-3. Apunta los nameservers del dominio a los de Netlify (te los indica la plataforma)
+Link: https://mujeresensteam.netlify.app/
 
 ---
-
-## Meta tags para redes sociales
-
-El `index.html` incluye meta tags básicas de Open Graph. Para personalizar la vista previa en redes:
-
-```html
-<!-- En el <head> de index.html -->
-<meta property="og:title"       content="Mujeres en STEAM" />
-<meta property="og:description" content="Tecnología, identidad y libertad económica para mujeres y niñas." />
-<meta property="og:image"       content="https://TU_URL/preview.jpg" />
-<meta property="og:url"         content="https://TU_URL" />
-<meta name="twitter:card"       content="summary_large_image" />
-```
 
 ## Responsividad
 
@@ -124,7 +101,7 @@ El `index.html` incluye meta tags básicas de Open Graph. Para personalizar la v
 
 ---
 
-## 📋 Licencia
+## Licencia
 
 Proyecto de uso interno de **Lucero Condori Rivera**.  
 © 2026 Mujeres en STEAM — Arequipa, Perú.
