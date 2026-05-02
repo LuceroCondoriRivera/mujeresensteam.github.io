@@ -72,6 +72,7 @@ mujeres-steam/
 
 ## Deploy
 
+### GitHub Pages 
 link: https://lucerocondoririvera.github.io/mujeresensteam.github.io/
 
 ### Netlify 
